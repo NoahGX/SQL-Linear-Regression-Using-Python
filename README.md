@@ -1,4 +1,4 @@
-# SQL using Pandas Library
+# SQLite using Pandas Library
 
 ## Overview
 The purpose of this Jupyter Notebook is to provide an introduction to using SQL queries within Python environmentsn using the `pandas` library, as well demonstrating how to perform linear regression analysis on datasets obtained from SQL databases.
