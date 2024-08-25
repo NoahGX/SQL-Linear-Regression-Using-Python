@@ -4,7 +4,7 @@
 The purpose of this Jupyter Notebook is to provide an introduction to using SQL queries within Python environmentsn using the `pandas` library, as well demonstrating how to perform linear regression analysis on datasets obtained from SQL databases.
 
 ## Features
-- Execution of SQL queries within a Jupyter notebook.
+- Execution of SQL queries within Jupyter notebook.
 - Data retrieval from SQL databases.
 - Data cleaning and preparation.
 - Performing linear regression analysis.
@@ -32,4 +32,4 @@ Input data should be stored in an SQLite database. Database diagram and more det
 ## Notes
 - Ensure the database connection details are updated.
 - Ensure the database file is correctly referenced in the notebook for successful connection and querying.
-- The linear regression model is basic; for more complex models, consider modifying the regression analysis section.
+- Consider modifying the basic linear regression analysis model for more complexity.
